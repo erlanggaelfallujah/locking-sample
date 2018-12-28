@@ -4,8 +4,11 @@ This project is a locking experiment with several methods that have been conside
 
 Some methods included in the project:
 
-1. Select ... For Update
-2. Select count (*) and Insert
+- [x] Select ... For Update
+- [x] Select count (*) and Insert
+- [ ] Optimistic Locking (JPA)
+- [ ] Optimistic Locking (Native)
+
 
 **Select ... For Update**
 
